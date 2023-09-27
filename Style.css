@@ -1,3 +1,9 @@
 body{
     background-color: #825FE5;
 }
+
+.column{
+    background-color: #EEAF0D;
+    color: white;
+    text-align: center;
+}
